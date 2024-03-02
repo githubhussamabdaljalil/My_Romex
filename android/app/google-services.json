@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262186992680",
+    "project_id": "myromex-323dc",
+    "storage_bucket": "myromex-323dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262186992680:android:b213d22f84ffc84169e11d",
+        "android_client_info": {
+          "package_name": "com.example.romex_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnDzI7QSEXyrHLd6txDmoGDiz7oax0_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
